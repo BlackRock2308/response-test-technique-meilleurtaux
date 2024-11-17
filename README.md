@@ -68,19 +68,6 @@ En tant que data engineer Meilleurtaux, votre rôle est de répondre à cette de
 > 3. 🔄 **Automatisation** : Comment mettre en place un processus automatisé (par exemple, toutes les heures ou chaque jour) pour garantir que les données sont toujours à jour ?  
 > 4. 🛠️ **Déploiement et Outils** : Comment allez-vous déployer votre solution, et quels outils ou technologies utiliseriez-vous ?
 
-> 💡💡 Pensez aux solutions de stockage et d’orchestration etc.. qui s’intègreraient facilement à notre Data Platform Meilleurtaux existante.
-
-⚠️ **Note** : Il n'y a pas de bonne ou de mauvaise réponse ! 😊 Partagez simplement votre approche et les raisons pour lesquelles vous choisiriez certaines solutions.
 
 
-
-
-
-🔹 **Tips** : [Comment partager un repo privé ?](https://docs.github.com/fr/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
-
-Une fois terminé, nous examinerons rapidement votre test et organiserons une réunion pour vous permettre de présenter votre solution, d’expliquer votre approche, votre méthodologie et les défis rencontrés au cours de cet exercice.
-
-📧 **N'hésitez pas à nous contactez si vous avez des questions ou besoin de précisions sur les instructions de l’exercice** :
-- zkhalmadani@meilleurtaux.com
-- glouasse@meilleurtaux.com
 
