@@ -1,12 +1,4 @@
-# 🏢 Meilleurtaux - Processus de Recrutement Data Engineer
-
-Bienvenue dans le repository du test technique pour le poste de **Data Engineer** chez [Meilleurtaux](https://www.meilleurtaux.com/) ! Ce test a été conçu pour évaluer vos compétences en :
-
-- 💻 **Codage**
-- 📊 **Analyse**
-- 📝 **Présentation**
-
-
+# 🏢 Meilleurtaux - Proposition de solution au test de recrutement Data Engineer 
 
 
 # Partie 1 : Analyse
