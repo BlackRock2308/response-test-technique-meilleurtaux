@@ -59,7 +59,7 @@ async def get_opportunity(opportunity_id: str):
             detail=f"Opportunité {opportunity_id} non trouvée"
         )
     
-   # Generer un UUID
+    # Generer un UUID
     response_uuid = str(uuid.uuid4())
     
     opportunity_dict = opportunity.to_dict(orient='records')[0]
