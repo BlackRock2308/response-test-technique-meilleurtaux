@@ -49,7 +49,7 @@ Il y'a un fichier requirements.txt qui est associé et qui contient les dépenda
 Imaginons que Julie, une data analyst de l’équipe marketing, souhaite accéder aux informations des utilisateurs et aux actions qu’ils effectuent sur le site (consultations de pages, clics, etc.) afin d’améliorer les analyses marketing. Ces données sont disponibles via une API, mais elles doivent être mises à disposition de manière structurée et accessible pour Julie.
 
 🎯 **Votre mission**  
-En tant que data engineer Meilleurtaux, votre rôle est de répondre à cette demande en mettant en place un processus pour récupérer et stocker les données de l’API, afin que Julie puisse les utiliser facilement dans ses analyses.
+En tant que data engineer , votre rôle est de répondre à cette demande en mettant en place un processus pour récupérer et stocker les données de l’API, afin que Julie puisse les utiliser facilement dans ses analyses.
 
 ### Question:  **Comment vous y prendriez-vous ? Quels outils et technologies choisiriez-vous ?**  
 
